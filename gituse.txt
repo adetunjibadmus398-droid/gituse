@@ -1,2 +1,6 @@
 this is gituse file!
+<<<<<<< HEAD
 this is merge conflict
+=======
+this is devloping feature[D[D[D[D[D[D[D[D[D[D[D[D[D[De[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dare devloping feature
+>>>>>>> 442d796 (resolve merge conflicts)
